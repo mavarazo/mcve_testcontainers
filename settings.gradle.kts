@@ -1,0 +1,2 @@
+rootProject.name = "mcve-testcontainers"
+
