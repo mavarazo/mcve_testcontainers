@@ -37,7 +37,6 @@ dependencies {
     testImplementation("org.testcontainers:postgresql:1.20.0")
 
     testRuntimeOnly("org.junit.platform:junit-platform-launcher")
-    testRuntimeOnly("com.h2database:h2")
 
     testRuntimeOnly("org.liquibase:liquibase-core")
 }
